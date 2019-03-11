@@ -77,6 +77,14 @@ img {
     color: #fffd9e;
 }
 
+a:link, a:visited, a:active {
+    color: #bf225b;
+}
+
+a:hover {
+    color: #42f1f4;
+}
+
 .hhighlight {
     padding: .1em;
     background-color: #42f1f4;
