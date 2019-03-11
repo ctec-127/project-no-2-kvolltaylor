@@ -81,7 +81,7 @@
                 // $doggo = require "inc/doggo.inc.php";
             } //end if doggo equals y 
             elseif($_GET['doggo'] == 'n') {
-                $doggo = file_get_contents("inc/doggo.inc.php");
+                $doggo = '';
             } //end elseif doggo equals n
         } //end if doggo is set
                     
