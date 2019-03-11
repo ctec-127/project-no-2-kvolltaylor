@@ -45,24 +45,24 @@
 <p>To say yes, if you'd like to, type "y"; otherwise, type "n."</p> -->
 <p>Choose your border style:</p>
     <ol>
-        <li>On a White Background<li>
-        <ul>
-            <li><a href="page2.php?background=white&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
-            <li><a href="page2.php?background=white&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
-            <li><a href="page2.php?background=white&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
-        </ul>
-        <li>On a Yellow Background<li>
-        <ul>
-            <li><a href="page2.php?background=yellow&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
-            <li><a href="page2.php?background=yellow&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
-            <li><a href="page2.php?background=yellow&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
-        </ul>
-        <li>On a Blue Background<li>
-        <ul>
-            <li><a href="page2.php?background=blue&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
-            <li><a href="page2.php?background=blue&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
-            <li><a href="page2.php?background=blue&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
-        </ul>
+        <li>On a White Background</li>
+            <ul>
+                <li><a href="page2.php?background=white&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
+                <li><a href="page2.php?background=white&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
+                <li><a href="page2.php?background=white&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
+            </ul>
+        <li>On a Yellow Background</li>
+            <ul>
+                <li><a href="page2.php?background=yellow&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
+                <li><a href="page2.php?background=yellow&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
+                <li><a href="page2.php?background=yellow&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
+            </ul>
+        <li>On a Blue Background</li>
+            <ul>
+                <li><a href="page2.php?background=blue&border=aqua&hats=y">Dogs in Party Hats, Aqua Border</a></li>
+                <li><a href="page2.php?background=blue&border=purple&hats=y">Dogs in Party Hats, Purple Border</a></li>
+                <li><a href="page2.php?background=blue&border=nope&hats=y">Dogs in Party Hats, No Border</a></li>
+            </ul>
     </ol>
 
 <h3 class="hhighlight">What kinds of dachshund coats would you like to see photos of?</h3>
